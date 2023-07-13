@@ -1,0 +1,66 @@
+﻿.sideMenu{
+    display:block;
+    margin-top:inherit -200px;
+}
+
+.sideMenu ul {
+    list-style-type: none;
+    margin: 100px;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+.sideMenu li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+    /* Change the link color on hover */
+.sideMenu li a:hover {
+    background-color: #555;
+    color: white;
+}
+
+.mainView{
+    position:relative;
+    left:20px;
+}
+
+
+.dropDownDoc {
+    text-align: center;
+    border-radius: 10px;
+    height: 35px;
+    width: 200px;
+    font-size: medium;
+    box-shadow: 5px 5px 0px 0px #00ff9238;
+}
+
+.subBtn {
+    text-align: center;
+    border-radius: 10px;
+    height: 35px;
+    width: 200px;
+    font-size: medium;
+    box-shadow: 5px 5px 0px 0px #00ff9238;
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+}
+
+.subBtn:hover {
+    text-align: center;
+    border-radius: 10px;
+    height: 35px;
+    width: 200px;
+    font-size: medium;
+    box-shadow: 5px 5px 0px 0px #00ff9238;
+    color: #fff;
+    background-color: #104600;
+    border-color: #4cae4c;
+}
+
+
